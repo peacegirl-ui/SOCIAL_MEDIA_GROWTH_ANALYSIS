@@ -17,9 +17,7 @@ The goal is to understand which platforms, content types, and audience segments 
 
 ## 📈 Dashboard Preview
 
-![Social Media Growth Analysis Dashboard]
-(Social%20Media%20Dashboard.png)
-
+![Social Media Growth Analysis Dashboard](b.png)
 ## 🔍 Key Insights
 
 - Instagram generated the highest total engagements.
