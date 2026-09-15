@@ -36,3 +36,11 @@ The goal is to understand which platforms, content types, and audience segments 
 ## 🎯 Project Objective
 
 To analyze social media growth and performance using Python, SQL, and Power BI, and provide meaningful insights for improving digital marketing strategies.
+
+## 👩‍💻 Author
+
+**Farida Ankleshwaria**
+
+Aspiring Data Analyst | Python | SQL | Power BI
+
+📍 Gujarat, India
